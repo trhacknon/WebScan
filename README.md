@@ -57,7 +57,7 @@ Feel free to download WebScan. Click <a href="video/WebScan.mp4" target="_blank"
 ```
 cd $HOME
 
-git clone https://github.com/TermuxHackz/WebScan.git
+git clone https://github.com/trhacknon/WebScan.git
 
 cd WebScan
 
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 python3 webscan.py
 ```
 
-<h3> in Addition you can also download vuln sql sites <a href="https://github.com/TermuxHackz/WebScan/blob/master/sql-sites.txt" target="_blank" download> here </a> and vuln xSS site <a href="https://github.com/TermuxHackz/WebScan/blob/master/xss-site.txt" target="_blank" download> here </a></h3>
+<h3> in Addition you can also download vuln sql sites <a href="https://github.com/trhacknon/WebScan/blob/master/sql-sites.txt" target="_blank" download> here </a> and vuln xSS site <a href="https://github.com/trhacknon/WebScan/blob/master/xss-site.txt" target="_blank" download> here </a></h3>
 
 
 # Contact Me 
